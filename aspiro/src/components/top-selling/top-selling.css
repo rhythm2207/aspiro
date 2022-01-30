@@ -1,0 +1,9 @@
+.selling {
+  margin: 40px 8vw;
+  margin-top: 50vh;
+  /* display: flex; */
+  align-items: center;
+}
+.sell {
+  display: flex;
+}

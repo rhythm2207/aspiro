@@ -1,0 +1,23 @@
+.step {
+  display: flex;
+  margin-top: 20px;
+}
+.steplo {
+  margin-right: 10px;
+}
+.head1 {
+  /* font-family: Poppins; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #5e6282;
+}
+.explain {
+  /* font-family: Poppins; */
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #5e6282;
+}

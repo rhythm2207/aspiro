@@ -1,0 +1,49 @@
+.footer {
+  display: flex;
+  width: 70vw;
+  margin: 10vh 10vh;
+  justify-content: space-around;
+}
+.site {
+  width: 20vw;
+}
+.comp {
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 66px;
+  color: #181e4b;
+}
+.moto {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 124.5%;
+  color: #5e6282;
+}
+.sections {
+  width: 50vw;
+  display: flex;
+  justify-content: space-around;
+}
+.social {
+  display: flex;
+}
+.para {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 124.5%;
+  /* identical to box height, or 25px */
+
+  letter-spacing: 0.005em;
+
+  /* TEXT CLR */
+
+  color: #5e6282;
+}
+
+.foot {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 124.5%;
+  color: #5e6282;
+  margin: 0 30vw;
+}

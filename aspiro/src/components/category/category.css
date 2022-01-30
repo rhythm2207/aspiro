@@ -1,0 +1,31 @@
+.cover {
+  margin: 20px 8vw;
+  /* display: flex; */
+  align-items: center;
+}
+.heading {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2vh;
+  line-height: 27px;
+  text-align: center;
+  color: #5e6282;
+}
+
+.line {
+  font-family: Volkhov;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 64px;
+  text-align: center;
+  color: #14183e;
+}
+.cards {
+  display: flex;
+  float: right;
+}
+
+@media only screen and (max-width: 600px) {
+}

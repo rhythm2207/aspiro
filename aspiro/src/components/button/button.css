@@ -1,0 +1,21 @@
+.button {
+  /* font-family: Google Sans; */
+  padding: 11px 18px;
+  height: 3.8vh;
+  width: 17vh;
+  border-radius: 10px;
+  margin: 10px 0px;
+  font-family: Google Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  color: #ffffff;
+}
+/* 
+.button:hover {
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+} */

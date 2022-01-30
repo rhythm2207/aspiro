@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.app {
+  height: 100%;
+  width: 100%;
+  margin-top: -25px;
+}
+
+.part1 {
+  background: url(girl.png);
+  background-size: cover;
+  height: 110vh;
+}
+.part5 {
+  width: 90vw;
+  height: 60vh;
+  margin: 0 auto;
+}
+.part4 {
+  margin: 10vh 25vh;
+}
+.part6 {
+  margin: 10vh 10vw;
+}

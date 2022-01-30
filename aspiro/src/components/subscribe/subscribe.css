@@ -1,0 +1,41 @@
+.container {
+  background: url(bg.png);
+  height: 50vh;
+  width: 80vw;
+  margin: 0 auto;
+}
+.send {
+  display: flex;
+  float: right;
+}
+.detail {
+  width: 55vw;
+  padding-top: 10vh;
+  margin: 0 auto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 33px;
+  line-height: 54px;
+  text-align: center;
+  color: #5e6282;
+}
+.space {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 35vw;
+  border: none;
+  margin-right: 3vh;
+  padding: 1vh 2vh;
+}
+.input {
+  display: flex;
+  width: 40vw;
+  margin: 8vh auto;
+  justify-content: space-between;
+}
+.style {
+  display: flex;
+  float: right;
+  margin-right: -100px;
+  margin-top: -100px;
+}
